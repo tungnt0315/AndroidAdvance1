@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lesson7_Service_Broadcast_Receiver</string>
+    <string name="title_activity_intent_service">IntentService</string>
+</resources>
